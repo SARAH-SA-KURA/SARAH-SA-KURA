@@ -17,10 +17,32 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sarah!
 
-💡 I'm a Digital Development student.  
-💻 I’m currently learning web technologies like HTML, CSS, JavaScript, jQuery, and Python.  
-🎯 I aim to become a creative and full-stack developer with strong soft skills.   
+🎓 I'm a Digital Development student passionate about building beautiful, user-friendly web experiences.  
+💻 I'm currently learning web technologies including **HTML**, **CSS**, **JavaScript**, **jQuery**, and **Python**.  
+🚀 My goal is to become a creative and confident **full-stack developer** with strong soft skills and teamwork abilities.
 
-📫 Feel free to connect with me:  
-[📧 Email](mailto:abdelwahidsara@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/sara-abdel-937a50278)
+---
+
+## 🛠️ Tech Stack & Tools:
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Tools:** Git, GitHub, VS Code  
+
+
+---
+
+## 📌 Featured Projects:
+
+- 🌐 *Personal Portfolio Website* – My first full front-end site using HTML/CSS
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 [Email me](mailto:abdelwahidsara@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sara-abdel-937a50278)
+
+---
+
+⭐ *Thanks for visiting my GitHub! I'm always excited to learn, grow, and build cool things.*  
+
 
