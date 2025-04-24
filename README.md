@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sarah!
 
-💡 I'm a Digital Development student at OFPPT with a background in Audiovisual studies.  
+💡 I'm a Digital Development student.  
 💻 I’m currently learning web technologies like HTML, CSS, JavaScript, jQuery, and Python.  
-🎯 I aim to become a creative and full-stack developer with strong soft skills.  
-🌍 I'm also improving my English and French to better connect with global communities.  
+🎯 I aim to become a creative and full-stack developer with strong soft skills.   
 
 📫 Feel free to connect with me:  
 [📧 Email](mailto:abdelwahidsara@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/sara-abdel-937a50278)
