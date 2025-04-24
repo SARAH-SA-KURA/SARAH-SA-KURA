@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SARAH-SA-KURA/SARAH-SA-KURA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Sarah!
+
+💡 I'm a Digital Development student at OFPPT with a background in Audiovisual studies.  
+💻 I’m currently learning web technologies like HTML, CSS, JavaScript, jQuery, and Python.  
+🎯 I aim to become a creative and full-stack developer with strong soft skills.  
+🌍 I'm also improving my English and French to better connect with global communities.  
+
+📫 Feel free to connect with me:  
+[📧 Email](mailto:abdelwahidsara@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/sara-abdel-937a50278)
+
