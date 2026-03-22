@@ -48,19 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E8C&icon_color=E91E8C)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E8C)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=E91E8C&fire=E91E8C&currStreakLabel=E91E8C)
-
-</div>
-
----
 
 ## 💡 Values I Code By
 
